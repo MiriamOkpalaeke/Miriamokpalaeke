@@ -8,8 +8,8 @@ I'm a passionate front-end developer with a knack for crafting user-centric web 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/twitter.com/miriamokpalaeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/miriamokpalaeke/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/miriam-chinonso-umunnakwe-okpalaeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/miriam-chinonso-umunnakwe-okpalaeke" height="30" width="40" /></a>
+<a href="https://twitter.com/miriamokpalaeke" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/miriamokpalaeke/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/miriam-chinonso-umunnakwe-okpalaeke" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/miriam-chinonso-umunnakwe-okpalaeke" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
