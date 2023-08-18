@@ -1,6 +1,5 @@
-<p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&duration=1000&pause=0000&color=30804A&background=15151500&center=true&vCenter=true&multiline=true&width=440&height=60&lines=Welcome+to;Miriam Okpalaeke's+Github" alt="Typing SVG" /></a>
-</p>
+
+
 
 <img src='https://github.com/MiriamOkpalaeke/Miriamokpalaeke/blob/main/Software%20(1).png'>
 
