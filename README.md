@@ -1,6 +1,4 @@
-
-
-(https://pbs.twimg.com/profile_banners/1618579646408232960/1692380587/1080x360)
+[<img src='https://github.com/MiriamOkpalaeke/Miriamokpalaeke/blob/main/Software%20(1).png'>]
 
 ## Hi there 👋
 
