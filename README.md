@@ -7,7 +7,7 @@ I'm a passionate front-end developer with a knack for crafting user-centric web 
 
 👨‍💻 All of my projects are available at [https://miriamokpalaeke.netlify.app](https://miriamokpalaeke.netlify.app)
 
-<div display='flex'>
+<div display='flex' margin-top='50px' flex-direction='row' justify-content='space-between' align-items='center'>
   <div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/miriamokpalaeke" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/miriamokpalaeke/" height="30" width="40" /></a>
