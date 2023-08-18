@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1618579646408232960/1692380587/1080x360)
+(https://pbs.twimg.com/profile_banners/1618579646408232960/1692380587/1080x360)
 
 I'm a passionate front-end developer with a knack for crafting user-centric web experiences. I bring designs to life through code and creativity, striving to build intuitive and visually appealing websites that leave a lasting impact.
 
