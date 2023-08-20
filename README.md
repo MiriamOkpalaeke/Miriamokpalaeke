@@ -9,7 +9,7 @@
 I'm a passionate front-end developer with a knack for crafting user-centric web experiences. I bring designs to life through code and creativity, striving to build intuitive and visually appealing websites that leave a lasting impact.
 <br>
 
-👨‍💻 All of my projects are available at [https://miriamokpalaeke.netlify.app](https://miriamokpalaeke.netlify.app)
+👨‍💻 Portfolio: [https://miriamokpalaeke.netlify.app](https://miriamokpalaeke.netlify.app)
 
 
 ## 🌱 I'm currently learning
